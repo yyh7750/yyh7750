@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <!-- profile info -->
 <div>
   <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/yyh7750@gmail.com-F44336?style=flat&logo=gmail&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/yyh6290-yello?style=flat&logo=kakaotalk&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/yyh6290-yellow?style=flat&logo=kakaotalk&logoColor=ffffff"/>
 </div>
