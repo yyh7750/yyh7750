@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 <div>
   <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/yyh7750@gmail.com-F44336?style=flat&logo=gmail&logoColor=ffffff"/></a>
   <img src="https://img.shields.io/badge/yyh6290-yellow?style=flat&logo=kakaotalk&logoColor=ffffff"/>
-  <a href="https://u0hun.tistory.com/category/" target="_blank"><img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=blogger&logoColor=ffffff"/></a>
+  <a href="https://u0hun.tistory.com/category/" target="_blank"><img src="https://img.shields.io/badge/Tistory-pupple?style=flat&logo=blogger&logoColor=ffffff"/></a>
 </div>
-
-<br>
 
 #### 🤗 Skills
 <div>
@@ -35,3 +33,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/AngularJS-red?style=flat&logo=angularjs&logoColor=ffffff"/>
 </div>
+
+<br>
+
+#### 🙌 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyh7750&show_icons=true&theme=gruvbox)
