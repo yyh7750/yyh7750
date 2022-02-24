@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/yyh7750@gmail.com-F44336?style=flat&logo=gmail&logoColor=ffffff"/></a>
   <img src="https://img.shields.io/badge/yyh6290-yellow?style=flat&logo=kakaotalk&logoColor=ffffff"/>
-  <a href="https://u0hun.tistory.com/category/" target="_blank"><img src="https://img.shields.io/badge/Tistory-pupple?style=flat&logo=blogger&logoColor=ffffff"/></a>
+  <a href="https://u0hun.tistory.com/category/" target="_blank"><img src="https://img.shields.io/badge/Tistory-gray?style=flat&logo=blogger&logoColor=ffffff"/></a>
 </div>
 
 #### 🤗 Skills
