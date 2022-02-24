@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### ☎ Contact Me
+<!-- ##### ☎ Contact Me -->
 <div>
   <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/yyh7750@gmail.com-F44336?style=flat&logo=gmail&logoColor=ffffff"/></a>
   <img src="https://img.shields.io/badge/yyh6290-yellow?style=flat&logo=kakaotalk&logoColor=ffffff"/>
   <a href="https://u0hun.tistory.com/category/" target="_blank"><img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=blogger&logoColor=ffffff"/></a>
 </div>
 
-##### 🤗 Skills
+<!-- ##### 🤗 Skills -->
 <div>
   <img src="https://img.shields.io/badge/Java-5adeff?style=flat&logo=java&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Spring Boot-green?style=flat&logo=springboot&logoColor=ffffff"/>
