@@ -15,13 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style type='text/css'>
-  [class*="profile-non-link"] { disable }
-</style>
-
-<!-- profile info -->
+##### ☎ Contact Me
 <div>
   <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/yyh7750@gmail.com-F44336?style=flat&logo=gmail&logoColor=ffffff"/></a>
-  <img class="profile-non-link" src="https://img.shields.io/badge/yyh6290-yellow?style=flat&logo=kakaotalk&logoColor=ffffff" disable/>
+  <img src="https://img.shields.io/badge/yyh6290-yellow?style=flat&logo=kakaotalk&logoColor=ffffff"/>
   <a href="https://u0hun.tistory.com/category/" target="_blank"><img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=blogger&logoColor=ffffff"/></a>
+</div>
+
+##### 🤗 Skills
+<div>
+  <img src="https://img.shields.io/badge/Java-5adeff?style=flat&logo=java&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Spring Boot-green?style=flat&logo=springboot&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/AngularJS-red?style=flat&logo=angularjs&logoColor=ffffff"/>
 </div>
