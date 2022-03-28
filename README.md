@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyh7750)](https://solved.ac/yyh7750)
 
+</div>
 
 #### 🙌 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyh7750&show_icons=true&theme=gruvbox)
-
-</div>
