@@ -6,7 +6,7 @@
   
 <div align="center">
   
-### 👋 Welcome to Yu-Younghun github!
+### 👋 Welcome to Yoo-Younghun github!
 
 <br>
   
