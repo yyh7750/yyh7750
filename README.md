@@ -48,7 +48,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AngularJS-red?style=flat&logo=angularjs&logoColor=ffffff"/>
 </div>
 
-<br>
 <hr>
 
 #### 🙌 Stats
