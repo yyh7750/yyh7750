@@ -1,6 +1,11 @@
+<div align="center">
 ### 👋 Welcome to yyh7750 github 
 <br>
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyh7750)](https://solved.ac/yyh7750)
 
+</div>
 
 <!--
 **yyh7750/yyh7750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,13 +41,6 @@ Here are some ideas to get you started:
 
 <br>
 <hr>
-
-<div align="center">
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyh7750)](https://solved.ac/yyh7750)
-
-</div>
 
 #### 🙌 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyh7750&show_icons=true&theme=gruvbox)
