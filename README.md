@@ -10,8 +10,7 @@
 
 <br>
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyh7750)](https://solved.ac/yyh7750)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyh7750)](https://solved.ac/yyh7750/)
 
 </div>
 
