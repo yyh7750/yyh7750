@@ -10,7 +10,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/yyh7750)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yyh7750)](https://solved.ac/yyh7750)
 
 </div>
 
