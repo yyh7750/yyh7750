@@ -51,3 +51,6 @@ Here are some ideas to get you started:
 
 #### 🙌 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyh7750&show_icons=true&theme=gruvbox)
+
+#### 🙌 Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyh7750&layout=Demo&theme=compact)
