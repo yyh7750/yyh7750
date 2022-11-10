@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/AngularJS-red?style=flat&logo=angularjs&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/VueJS-red?style=flat&logo=angularjs&logoColor=ffffff"/>
 </div>
 
 <hr>
