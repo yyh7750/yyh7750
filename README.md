@@ -39,13 +39,25 @@ Here are some ideas to get you started:
 
 #### 🤗 Skills
 <div>
-  <img src="https://img.shields.io/badge/Java-5adeff?style=flat&logo=java&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Spring Boot-green?style=flat&logo=springboot&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/AngularJS-red?style=flat&logo=angularjs&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/VueJS-green?style=flat&logo=vuejs&logoColor=ffffff"/>
+ #### Main
+
+ `Java` `Spring Boot` `Spring MVC` `JPA` `Graddle`
+
+ `MySQL` `MariaDB`
+
+ #### Knowledgeable
+
+ `HTML` `CSS` `ES6` `Javascript` `Vue.js` `AngularJS` 
+
+ `MyBatis` `Maven` `JSP`
+
+ `Redis` `AWS S3`
+
+ `Spring Cloud`
+
+ ### ETC
+
+ `Linux` `Doker` `Jenkins` `Nginx`
 </div>
 
 <hr>
