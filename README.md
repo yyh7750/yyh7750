@@ -39,24 +39,18 @@ Here are some ideas to get you started:
 
 #### 🤗 Skills
 <div>
+ 
  #### Main
-
  `Java` `Spring Boot` `Spring MVC` `JPA` `Graddle`
-
  `MySQL` `MariaDB`
 
  #### Knowledgeable
-
  `HTML` `CSS` `ES6` `Javascript` `Vue.js` `AngularJS` 
-
  `MyBatis` `Maven` `JSP`
-
  `Redis` `AWS S3`
-
  `Spring Cloud`
 
- ### ETC
-
+ #### ETC
  `Linux` `Doker` `Jenkins` `Nginx`
 </div>
 
