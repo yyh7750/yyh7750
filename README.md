@@ -40,13 +40,14 @@ Here are some ideas to get you started:
  
  #### Main
  `Java` `Spring Boot` `Spring MVC` `JPA` `Graddle`
- `MySQL` `MariaDB`
+ `MySQL` `MariaDB` `C++` `MFC` `C#`
 
  #### Knowledgeable
  `HTML` `CSS` `ES6` `Javascript` `Vue.js` `AngularJS` 
  `MyBatis` `Maven` `JSP`
  `Redis` `AWS S3`
  `Spring Cloud`
+ `WPF`
 
  #### ETC
  `Linux` `Doker` `Jenkins` `Nginx`
