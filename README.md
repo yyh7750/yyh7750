@@ -39,14 +39,21 @@ Here are some ideas to get you started:
 <div>
  
  #### Main
+ <bold>Web Programming</bold><br>
  `Java` `Spring Boot` `Spring MVC` `JPA` `Graddle`
- `MySQL` `MariaDB` `C++` `MFC` `C#`
+ `MySQL` `MariaDB`
+
+ <bold>Window Programming</bold><br>
+ `C++` `MFC` `C#`
 
  #### Knowledgeable
+ <bold>Web Programming</bold><br>
  `HTML` `CSS` `ES6` `Javascript` `Vue.js` `AngularJS` 
  `MyBatis` `Maven` `JSP`
  `Redis` `AWS S3`
  `Spring Cloud`
+
+ <bold>Window Programming</bold><br>
  `WPF`
 
  #### ETC
