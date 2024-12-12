@@ -52,6 +52,7 @@ Here are some ideas to get you started:
  `MyBatis` `Maven` `JSP`
  `Redis` `AWS S3`
  `Spring Cloud`
+ `Svelte` `SvelteKit` `Rust` `Tauri`
 
  <bold>Window Programming</bold><br>
  `WPF`
