@@ -1,9 +1,3 @@
-<div align="right">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyh7750%2F&count_bg=%23D0C0FF&title_bg=%23807E7E&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
-
- </div>
-  
 <div align="center">
 
 ### 👋 Welcome to Yoo-Younghun github!
@@ -44,7 +38,7 @@ Here are some ideas to get you started:
  `MySQL` `MariaDB`
 
  <bold>Window Programming</bold><br>
- `C++` `MFC` `C#`
+ `C++` `MFC` `C#` `WPF`
 
  #### Knowledgeable
  <bold>Web Programming</bold><br>
@@ -53,9 +47,6 @@ Here are some ideas to get you started:
  `Redis` `AWS S3`
  `Spring Cloud`
  `Svelte` `SvelteKit` `Rust` `Tauri`
-
- <bold>Window Programming</bold><br>
- `WPF`
 
  #### ETC
  `Linux` `Doker` `Jenkins` `Nginx`
