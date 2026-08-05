@@ -57,8 +57,3 @@ Here are some ideas to get you started:
 #### 🙌 BaekJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yyh7750)](https://solved.ac/yyh7750)
 
-#### 🙌 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyh7750&show_icons=true&theme=gruvbox)
-
-#### 🙌 Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyh7750&layout=compact&theme=onedark)
